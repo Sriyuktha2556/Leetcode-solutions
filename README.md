@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
