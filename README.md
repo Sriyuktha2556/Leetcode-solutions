@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
