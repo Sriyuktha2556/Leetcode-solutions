@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3945-digit-frequency-score](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3945-digit-frequency-score](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
 | ------- |
