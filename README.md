@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
