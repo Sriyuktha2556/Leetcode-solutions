@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
