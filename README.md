@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
