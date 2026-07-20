@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
