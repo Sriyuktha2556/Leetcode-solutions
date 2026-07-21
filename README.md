@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
