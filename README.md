@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
