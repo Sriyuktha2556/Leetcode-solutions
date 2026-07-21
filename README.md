@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
