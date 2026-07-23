@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Queue
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Tree
 |  |
 | ------- |
