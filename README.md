@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
