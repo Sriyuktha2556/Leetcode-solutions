@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
