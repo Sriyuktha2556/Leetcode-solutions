@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
