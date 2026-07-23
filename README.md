@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
