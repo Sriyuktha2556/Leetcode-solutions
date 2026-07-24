@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 ## Counting Sort
 |  |
 | ------- |
