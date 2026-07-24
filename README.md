@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
