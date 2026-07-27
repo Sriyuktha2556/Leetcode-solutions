@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1630-arithmetic-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2325-decode-the-message](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
