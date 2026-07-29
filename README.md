@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0067-add-binary) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
