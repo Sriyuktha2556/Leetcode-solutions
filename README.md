@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
