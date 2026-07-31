@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3606-coupon-code-validator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3866-first-unique-even-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
