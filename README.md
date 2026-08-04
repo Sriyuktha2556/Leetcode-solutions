@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2325-decode-the-message](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2000-reverse-prefix-of-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2540-minimum-common-value](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
