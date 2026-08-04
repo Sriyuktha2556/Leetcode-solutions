@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3731-find-missing-elements](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3606-coupon-code-validator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3731-find-missing-elements](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3790-smallest-all-ones-multiple) |
