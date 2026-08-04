@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
