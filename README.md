@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search Tree
 |  |
