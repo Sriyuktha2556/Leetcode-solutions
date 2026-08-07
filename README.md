@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1630-arithmetic-subarrays](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1630-arithmetic-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
