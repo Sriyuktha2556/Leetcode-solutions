@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Union-Find
 |  |
 | ------- |
