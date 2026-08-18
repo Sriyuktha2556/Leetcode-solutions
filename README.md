@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0063-unique-paths-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0509-fibonacci-number](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
