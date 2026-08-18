@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -330,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
