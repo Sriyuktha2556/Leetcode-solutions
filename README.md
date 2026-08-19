@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [1068-product-sales-analysis-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 ## Recursion
 |  |
 | ------- |
