@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sriyuktha2556/Leetcode-solutions/tree/master/0509-fibonacci-number) |
